@@ -41,6 +41,7 @@ portfolio:
     link: project
 service:
   enable: true
+  
 cta:
   enable: true
   bg_image: images/back.jpg
